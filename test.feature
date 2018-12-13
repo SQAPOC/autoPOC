@@ -1,10 +1,6 @@
 Feature: Open Chrome and search
 
-  @BHOT-61 @COMPLETED
-  Scenario: Search for Beacon Health
-    Given A user have navigated to Google
-
-  @BHOT-61 @COMPLETED
+  @BHOT-61 @WIP
   Scenario: Marc Scenario
     Given I am a Cambridge Hipster
     When I ride my bike on Main St.

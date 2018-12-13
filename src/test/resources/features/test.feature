@@ -6,6 +6,6 @@ Feature: Open Chrome and search
     When I ride my bike on Main St.
     Then I will hit a open car door
 
-  @ORPHAN
+  @BHOT-61 @WIP
   Scenario: Marc 2
     Given I do things

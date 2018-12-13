@@ -4,7 +4,7 @@ Feature: Open Chrome and search
   Scenario: Search for Beacon Health
     Given A user have navigated to Google
 
-  @ORPHAN
+  @BHOT-61 @WIP
   Scenario: Marc Scenario
     Given I am a Cambridge Hipster
     When I ride my bike on Main St.
